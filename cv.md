@@ -44,12 +44,14 @@ Dedicated and self-driven front-end developer, with a focus on creating responsi
 ## Education
 
 ### Harvard University *2020*
+
 **CS50x Introduction to computer science**
 - Using C and Python to learn core concepts such as abstraction, data structures, and algorithms.
 **CS50 Web programming w/ Python & Javascript**
 - Designing and implementing web apps with Django, React, and MySql. Produced shopping site and mailing app.
 
 ### Helsinki University *2021*
+
 **Full Stack Open**
 - Building modern web apps with React and REST APIs using Node.js and Express.
 - Created simple, functional apps including; To-do list, blogging site, and phonebook.
