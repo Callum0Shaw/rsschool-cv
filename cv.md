@@ -2,7 +2,7 @@
 
 ## Contact
 
-Callum0Shaw@gmail.com
+Callum0Shaw@gmail.com 
 www.github.com/Callum0Shaw
 +370 653 30423
 Mindaugo g. 27, Vilnus
